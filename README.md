@@ -1,4 +1,4 @@
-#3DiScord themes
+# 3DiScord themes
 #### How to use?
 Simply download a theme in the releases, and extract it to `SD:/3ds/3DiScord/theme/`. It's as simple as that!
 #### I want to create a theme, how do I do?
